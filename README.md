@@ -1,5 +1,5 @@
-# AmbuBot_Research_Line
-### Developed by @LoreBene99
+# Second Assignment for the course "Research Track 2" - UniGe
+### Developed by  [@LoreBene99](https://github.com/LoreBene99)
 Assignment given by the professor Carmine Recchiuto for the course "Research Track 2" - Robotics Engineering, at the University of Genova.
 The project was also supervised by the professor Gianni Vercelli.
 
